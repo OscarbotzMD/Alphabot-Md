@@ -20,7 +20,7 @@ global.autoread = false // auto read pesan / message
 // Other
 global.botname = "Jarot-Mdོ" //namabot kalian
 global.ownername= "ᴹᴿ᭄ JarotOfcོ ×፝֟͜×" //nama kalian
-global.myweb ="https://instagram.com/oscarbotz_" //bebas asal jan hapus
+global.myweb ="https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //bebas asal jan hapus
 global.github = "https://github.com/robotew" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
@@ -30,7 +30,7 @@ global.ownernomerr = "+6285850539404" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6285850539404","6285850539404","918156874290"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6285850539404","6285850539404","6285850539404"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© Jarot-Mdོ' //sticker wm ubah
 global.author = 'Di Buat Oleh JarotOfc' //sticker wm ganti nama kalian
 global.sessionName = 'session'
